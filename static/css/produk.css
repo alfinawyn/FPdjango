@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head-produk h1 {
+    font-size: 90px;
+    font-weight: 650;
+}
+
+.head-produk p {
+    font-size: 24px;
+    color: #CFD2CF;
+    line-height: 0%;
+}
